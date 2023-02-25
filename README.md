@@ -1,4 +1,10 @@
 # proxy-quality-checker
-Simple proxy quality checker for: Speed, latency, protocol(socks5, http(s)), type(residential, COM, Datacenter), Fraud score
+Simple proxy quality checker for: 
+- Public IP (https://api.myip.com/)
+- Speed and latency (later)
+- Location (https://api.myip.com/)
+- protocol: Socks5, http or https
+- Type: Residential, COM, Datacenter (https://ip2location.com/)
+- Fraud score (https://www.ipqualityscore.com/ip-reputation-check)
 
 Release: SOOOOOOOON
